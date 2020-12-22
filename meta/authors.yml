@@ -1,6 +1,8 @@
 authors:
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
+  - slug: milan
+    name: Milan Darjanin
+    introduction: Short intro about me for purpose of writing another blog template.
